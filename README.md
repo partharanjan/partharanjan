@@ -14,5 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.youtube.com/@partharanjan" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png" alt="@partharanjan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/partharanjan" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="partharanjan" height="30" width="40" /></a>
 </p>
