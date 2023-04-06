@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Partha Ranjan Nayak</h1>
 <h3 align="center">A passionate 🧑🏾‍💻Software Engineer | 🧛 Mentor | 🎥 YouTuber </h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learing & Web 3.0**
+- 🌱 I’m currently learning **Metaverse, Data Science, Machine Learing & Web 3.0**
 
-- 👯 I’m looking to collaborate on **Web 3.0**
+- 👯 I’m looking to collaborate on **Metaverse**
 
 - 💬 Ask me about **React, Angular, React Native, Next Js, Node Js, .net Core**
 
