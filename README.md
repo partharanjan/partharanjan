@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Partha Ranjan Nayak
+# Hi 👋 I'm Partha Nayak
 
 ### AI Engineer • Full Stack Developer • Enterprise Solutions Architect
 
