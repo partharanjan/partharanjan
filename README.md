@@ -1,19 +1,147 @@
-<h1 align="center">Hi 👋, I'm Partha Ranjan Nayak</h1>
-<h3 align="center">A passionate 🧑🏾‍💻 Agentic AI Developer | 🧛 Mentor | 🎥 YouTuber </h3>
+<div align="center">
 
-- 🌱 I’m currently learning **AI, ML Metaverse, Data Science, Machine Learing & Web 3.0**
+# Hi 👋 I'm Partha Nayak
 
-- 👯 I’m looking to collaborate on **AI**
+### AI Engineer • Full Stack Developer • Enterprise Solutions Architect
 
-- 💬 Ask me about **Python, React, Angular, React Native, Next Js, Node Js, .net Core**
+Building AI-powered enterprise applications, automation platforms, and scalable software solutions.
+---
+[![YouTube](https://img.shields.io/badge/YouTube-Partha_Nayak-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@partharanjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Partha_Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/partharanjan)
 
-- 🎥 Watch me on **https://www.youtube.com/@partharanjan**
+</div>
 
-- 📫 How to reach me **partharanjan.nayak@gmail.com**
+---
 
+# 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/@partharanjan"><img align="center" src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png" alt="@partharanjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/partharanjan"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="partharanjan" height="30" width="40" /></a>
-</p>
+I'm a software engineer passionate about building intelligent applications that solve real-world business problems.
+
+My work focuses on combining **Artificial Intelligence**, **Automation**, and **Enterprise Software Engineering** to create scalable, production-ready systems.
+
+### I enjoy working with
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 🔌 Model Context Protocol (MCP)
+- ⚡ Full Stack Development
+- 🏭 Manufacturing Software
+- 📊 Data Analytics
+- 🔄 Workflow Automation
+- ☁️ Cloud Technologies
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+### Frontend
+
+- Next.js
+- React
+- Angular
+- Tailwind CSS
+- Electron
+
+### Backend
+
+- FastAPI
+- NestJS
+- ASP.NET Core
+- Node.js
+- REST APIs
+
+### Artificial Intelligence
+
+- OpenAI APIs
+- LangGraph
+- MCP
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Function Calling
+- Vector Databases
+
+### Databases
+
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Redis
+- Cosmos DB
+
+### DevOps & Cloud
+
+- Docker
+- GitHub Actions
+- Cloudflare
+- IIS
+- Nginx
+
+### Data & Analytics
+
+- Power BI
+- SSIS
+- ETL
+- Data Warehousing
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced AI Agent Architectures
+- Multi-Agent Systems
+- LangGraph
+- MCP Ecosystem
+- Enterprise AI Integration
+- Computer Vision
+- Distributed Systems
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Enterprise Software
+- SaaS Platforms
+- Manufacturing Technology
+- Automation
+- Cloud Architecture
+- High Performance APIs
+- Open Source Development
+
+---
+
+# 🏆 Goals
+
+- 🚀 Build production-ready AI Agents
+- 🧠 Contribute to the MCP ecosystem
+- 📚 Contribute to Open Source
+- ⚡ Develop enterprise-grade AI applications
+- ☁️ Explore cloud-native architectures
+- 🎥 Share knowledge through technical content
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Youtube: https://www.youtube.com/@partharanjan
+- 💼 LinkedIn: https://linkedin.com/in/partharanjan
+- 📧 Email: partharanjan.nayak@gmail.com
+
+---
+
+<div align="center">
+
+### 💡 *Building software that bridges AI and real-world business solutions.*
+
+⭐ Thanks for visiting my profile!
+
+</div>
